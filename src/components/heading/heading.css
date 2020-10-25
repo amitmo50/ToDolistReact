@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+    color: #fff;
+}
+.heading-container {
+    width: 100%;
+    margin-top: 0;
+    text-align: center;
+}

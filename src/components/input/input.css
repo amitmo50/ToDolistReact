@@ -1,0 +1,31 @@
+.input-container{
+    text-align: center;
+    width: 100%;
+    
+}
+.input-text {
+    width:80%;
+    text-align: left;
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.input-btn {
+    width: 20%;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 0.9rem;
+    background-color: #266150;
+    color: #FDF8F5;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 400px) {
+    .input-container {
+        width: 100%;
+    }
+}
